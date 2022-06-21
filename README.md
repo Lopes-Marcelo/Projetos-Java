@@ -1,2 +1,2 @@
 # Projetos-Java
-Repositório dedicado à projetos básicos em linguagem JAVA. ☕
+Repositório dedicado à projetos em linguagem JAVA. ☕
